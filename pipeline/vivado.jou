@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Sep 17 18:56:57 2023
+# Process ID: 9200
+# Current directory: F:/pipeline
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7116 F:\pipeline\pipeline.xpr
+# Log file: F:/pipeline/vivado.log
+# Journal file: F:/pipeline\vivado.jou
+# Running On: DESKTOP-HA9BE3E, OS: Windows, CPU Frequency: 3592 MHz, CPU Physical cores: 4, Host memory: 8493 MB
+#-----------------------------------------------------------
+start_gui
